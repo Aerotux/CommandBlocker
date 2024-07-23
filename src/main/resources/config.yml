@@ -1,0 +1,18 @@
+#Configuration
+
+#This is the list of blocked commands.
+#MAKE SURE IT ALL STARTS WITH "/"
+blocked-commands:
+  - "/pl"
+  - "/?"
+  - "/plugins"
+  - "/bukkit:plugins"
+  - "/bukkit:pl"
+  - "/bukkit:?"
+  - "/help"
+  - "/bukkit:help"
+  - "/about"
+  - "/bukkit:about"
+  - "/paper:callback"
+
+blocked-command-message: "&c&lCAN'T! &7This command is blocked an you cannot use it!"

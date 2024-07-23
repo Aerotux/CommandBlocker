@@ -1,0 +1,6 @@
+name: AeroCommandBlocker
+version: '${project.version}'
+main: net.aerotux.commandblocker.CommandBlocker
+api-version: '1.20'
+authors: [Aerotux]
+description: A light-weight command blocker
